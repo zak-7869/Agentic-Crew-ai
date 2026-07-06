@@ -1,0 +1,4 @@
+crewai
+groq
+pydantic 
+python-dotenv
