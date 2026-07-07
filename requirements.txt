@@ -1,9 +1,0 @@
-crewai
-groq
-pydantic 
-python-dotenv
-streamlit
-crewai-tools
-duckduckgo-search
-ddgs
-crewai crewai-tools
